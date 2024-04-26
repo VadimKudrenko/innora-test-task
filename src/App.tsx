@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <h5 style={{color: 'rgb(98 98 98)', margin: '20px 20px', textAlign: 'left', fontSize: '15px', width: '550px'}}>
         This application was made as a test task<br/>
-        by <a href="https://github.com/VadimKudrenko">Vadim Kudrenko</a><br/><br/>
+        by <a href="https://github.com/VadimKudrenko/innora-test-task">Vadim Kudrenko</a><br/><br/>
 
 
         Application is "To-do List" which use the GitHub API to load repositories issues specified in the address bar field,
