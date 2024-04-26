@@ -1,0 +1,40 @@
+.kanban-board-repo-path-wrapper {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.kanban-board-repo-path__text {
+  font-size: 20px;
+  text-transform: capitalize;
+  margin: 0;
+}
+
+.kanban-board-repo-path__link {
+  color: #364FC7;
+  text-decoration: none;
+}
+
+.kanban-board-repo-path__text--stargazers {
+  text-transform: none;
+}
+
+.kanban-board-repo-path__text--arrow {
+  color: #364FC7;
+  padding: 0 10px;
+}
+
+.kanban-board-repo-path__stargazers-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.kanban-board-repo-path__stargazers-icon {
+  color: #E67700;
+  width: 25px;
+  height: 25px;
+  margin-right: 5px;
+}

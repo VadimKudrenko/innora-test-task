@@ -1,0 +1,26 @@
+.kanban-board-wrapper {
+  width: 80%;
+  margin: auto;
+  /* background-color: #CED4DA; */
+}
+
+.kanban-board-wrapper-inner {
+  display: flex;
+  width: 75%;
+  margin: auto;
+  justify-content: space-between;
+}
+
+.kanban-board__board {
+  width: 45%;
+  min-height: 50vh;
+}
+
+.kanban-board__board-list {
+  height: 100%;
+  background-color: #CED4DA;
+  border: 1px solid #000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

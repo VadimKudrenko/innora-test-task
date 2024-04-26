@@ -1,0 +1,41 @@
+.kanban-board-item {
+  width: 22rem;
+  margin: 20px 20px;
+  cursor: grab;
+}
+
+.kanban-board-item__title {
+  text-align: left;
+}
+
+.kanban-board-item__text {
+  text-align: left;
+}
+
+.kanban-board-item__subtitle-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.kanban-board-item__subtitle {
+  text-align: left;
+}
+
+.kanban-board-item__delete-btn {
+  padding: 7px 10px !important;
+}
+
+.kanban-board-item__delete-btn-icon {
+  width: 25px !important;
+  height: 25px !important;
+}
+
+.kanban-board-item__return-btn {
+  padding: 7px 9px !important;
+}
+
+.kanban-board-item__return-btn-icon {
+  width: 25px !important;
+  height: 25px !important;
+}

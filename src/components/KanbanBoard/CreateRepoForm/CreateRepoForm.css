@@ -1,0 +1,10 @@
+.create-repo-form__title-wrapper {
+  margin: 10px 0 20px 0;
+  color: #000;
+}
+
+.create-repo-form__wrapper {
+  max-width: 40%;
+  margin: auto;
+  padding: 0 0 20px 0;
+}
